@@ -186,6 +186,3 @@ Thus, to check the validity of a red-black tree:
 3. If both checks pass, the tree is valid; otherwise, it is not.
 
 This method efficiently validates the tree by combining these checks during a single traversal of the tree, making it  O(n)  in time complexity for a tree with  n  nodes.
-
-
-For more information, check out our project's [GitHub Repo](https://github.com/JeremiasZimmerman213/COMP302-RBTree-Project) 
